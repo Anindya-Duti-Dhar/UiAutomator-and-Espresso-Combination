@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blue">#5B76B3</color>
+    <color name="pressed_blue">#FF7294DF</color>
+    <color name="pressed_color_for_hot_pink">#fb5bad</color>
+    <color name="hot_pink">#fa148a</color>
+    <color name="background_light">#75ffffff</color>
+    <color name="Lemon">#bce102</color>
+</resources>

@@ -1,0 +1,5 @@
+<ripple
+    android:color="@color/background_light"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/btn_round_color_fb" />
+</ripple>
